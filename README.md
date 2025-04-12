@@ -1,7 +1,5 @@
 Coffee-shop-sales-Data-Analysis(Intractive Dashboard Creation Using MsExcel)
 
-
-Project Objective
-
+Project Objective :-
 
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
