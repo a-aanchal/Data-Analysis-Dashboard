@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-This dashboard provides insights into coffee shop sales, highlighting top-selling products, peak order hours, store performance, and customer preferences. It features key metrics like total transactions, average orders, and category distribution for data-driven decisions.
+Coffee-shop-sales-Data-Analysis(Intractive Dashboard Creation Using MsExcel) 
+Project Objective 
+The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
