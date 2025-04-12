@@ -5,4 +5,5 @@
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
 
 ##Dataset Link 
-https://mavenanalytics.io/data-playground?page=6&pageSize=5
+
+-<a href="https://github.com/a-aanchal/Data-Analysis-Dashboard/blob/main/Book1.xlsx">Dataset</a>
